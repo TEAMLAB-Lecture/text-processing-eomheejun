@@ -93,3 +93,5 @@ class TestTextProcessing(unittest.TestCase):
         self.assertEqual(pred, "bcdfghjklmnpqrstvwxyz")
 
 
+if __name__ == '__main__':  
+    unittest.main()
